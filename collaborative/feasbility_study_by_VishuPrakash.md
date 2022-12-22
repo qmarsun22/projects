@@ -17,7 +17,7 @@ As of Dec 22 2022
  - First we need to see, How will we manage the current project
  - Main Goal is project, How to enable the student from vilage into IT
   - Rent a place in Kalla/Siruvaya
-  - MCA or M Phil B Ed student to conduc the course
+  - MCA or M Phil B Ed student to conduct the course
   - Saturady 3 hrs - two class, Basic computer and HTML ( 10 days program )
 
 
