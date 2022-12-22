@@ -24,6 +24,8 @@ As of Dec 22 2022
 
 
 ## Next steps
-- Find MCA Final year student, continue the 
+- Find MCA Final year student, try to manage and complete the projects for next 6 months
+
 ## Related resouces
 https://www.alagappauniversity.ac.in/collaborative.php
+
