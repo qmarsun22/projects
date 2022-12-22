@@ -11,8 +11,6 @@ As of Dec 22 2022
 - New syllabus approved and allowed by university
 - Course approval we need to pay 2 laks 
 - Syllabus contents we need to prepare
-- 
-
 
 ## Related resouces
 https://www.alagappauniversity.ac.in/collaborative.php
