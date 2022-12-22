@@ -15,11 +15,11 @@ As of Dec 22 2022
 - Course approval we need to pay 2 lakhs 
 - Syllabus contents we need to prepare
 
-## Conclusion 
+## Conclusion
  - First we need to see, How will we manage the current project
- - Main Goal is project, How to enable the student from vilage into IT
-  - Rent a place in Kalla/Siruvaya
-  - MCA or M Phil B Ed student to conduct the course
+ - Main Goal is project, How to enable the student from village into IT
+  - Rent a place in Kallal/A.Siruvayal
+  - MCA or M Phil B Ed student to conduct the course ,not sure how much we will pay
   - Saturady 3 hrs - two class, Basic computer and HTML ( 10 days program )
 
 
