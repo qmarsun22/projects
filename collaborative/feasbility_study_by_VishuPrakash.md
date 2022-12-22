@@ -13,7 +13,7 @@ As of Dec 22 2022
 - Course approval we need to pay 2 laks 
 - Syllabus contents we need to prepare
 
-##Conclusion 
+## Conclusion 
  - First we need to see, How will we manage the current project
  - Main Goal is project, How to enable the student from vilage into IT
   - Rent a place in Kalla/Siruvaya
