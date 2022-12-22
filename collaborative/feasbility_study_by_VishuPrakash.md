@@ -10,7 +10,7 @@ As of Dec 22 2022
 - Unversity course shouldn't there part of Collaborative programs
 - There is a visit by unversity and we need to pay all the cost
 - New syllabus approved and allowed by university
-- Course approval we need to pay 2 laks 
+- Course approval we need to pay 2 lakhs 
 - Syllabus contents we need to prepare
 
 ## Conclusion 
