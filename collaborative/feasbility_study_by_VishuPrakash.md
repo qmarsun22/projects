@@ -2,6 +2,8 @@
 
 ## Feasibility Study of  Collaborative programs in rural by Vishu Prakash
 The following research is done by Vishu Prakash, MBA Algappa University
+
+VishnuPrakash discussed with  Directory DR K Murali Rajan and Collected the following .
 As of Dec 22 2022
 - Familar place 
 - 5 KM radious there should not be no prgoram
